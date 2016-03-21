@@ -1,2 +1,2 @@
-# meta-4136
+# meta-packt-4136
 Contains example layers used for raspberrypi
